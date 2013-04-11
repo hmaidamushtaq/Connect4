@@ -1,4 +1,8 @@
 Connect4
 ========
 
-an implemntation of connect4 and a AI (MonteCarlo)
+an implementation of connect4 and a AI (MonteCarlo)
+this project use the genial idea of Fhourstones for the board implementation
+
+tutorial (how to implement it):
+http://wieschoo.com/tutorials/  --> "AI algorithms in sequential games"
