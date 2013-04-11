@@ -1,0 +1,9 @@
+D:\PROJECTS\Csharp\connectfour\connectfour\obj\x86\Debug\connectfour.Properties.Resources.resources
+D:\PROJECTS\Csharp\connectfour\connectfour\obj\x86\Debug\connectfour.csproj.GenerateResource.Cache
+D:\PROJECTS\Csharp\connectfour\connectfour\bin\Debug\connectfour.exe
+D:\PROJECTS\Csharp\connectfour\connectfour\bin\Debug\connectfour.pdb
+D:\PROJECTS\Csharp\connectfour\connectfour\obj\x86\Debug\connectfour.exe
+D:\PROJECTS\Csharp\connectfour\connectfour\obj\x86\Debug\connectfour.pdb
+D:\PROJECTS\Csharp\connectfour\connectfour\obj\x86\Debug\connectfour.Form1.resources
+D:\PROJECTS\Csharp\connectfour - Kopie\connectfour\obj\x86\Debug\connectfour.exe
+D:\PROJECTS\Csharp\connectfour - Kopie\connectfour\obj\x86\Debug\connectfour.pdb
